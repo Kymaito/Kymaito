@@ -5,7 +5,7 @@
 I'm a young french developer. 
 
 ## 🛠 Skills
-Javascript - Typescript
+Javascript - Typescript - Glua
 
 HTML - CSS
 
