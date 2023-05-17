@@ -17,7 +17,7 @@
 
 ## Working on
 
-- 🌱 I’m currently working on Hoops, the best security discord bot.
+- 🌱 I’m currently working on Hoops, the best security discord bot. (https://hoops-bot.xyz)
 - 📚 I’m currently working on a Garry's Mod server (Sparkle Rôleplay)
 
 ## Contact me
