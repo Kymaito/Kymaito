@@ -1,7 +1,7 @@
 # Something about me ...
 - 👋 Yo, I’m **[@Kymaito](https://github.com/Kymaito/)** !
 - <img src="https://user-images.githubusercontent.com/81523999/229277031-b0b54782-1695-45e2-8a6d-5887b665f53b.png" style="width:18px;"> I am a French developer
-- Im 14 years old
+- Im 16 years old
 
 ## My learning projects
 
@@ -17,14 +17,13 @@
 
 ## Working on
 
-- 🌱 I’m currently working on Hoops, the best security discord bot. (https://hoops-bot.xyz)
-- 📚 I’m currently working on a Garry's Mod server (Sparkle Rôleplay)
+- 🌱 I’m currently working on nothing
 
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **Kymaito#0543**:
+  - **Discord**: **Kymaito**:
   
-  [![discord](https://invidget.switchblade.xyz/p5kqzkdV8a)](https://discord.gg/p5kqzkdV8a) 
+  [![discord](https://invidget.switchblade.xyz/p5kqzkdV8a)](https://discord.gg/dDkcaU4RDr) 
   
 -  **@mail**: **matheo.come@gmail.com**
 
