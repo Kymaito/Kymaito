@@ -25,7 +25,7 @@
   
   [![discord](https://invidget.switchblade.xyz/p5kqzkdV8a)](https://discord.gg/dDkcaU4RDr) 
   
--  **@mail**: **matheo.come@gmail.com**
+-  **@mail**: **kymaito.perso@gmail.com**
 
 
 ## ⚙️ Info GitHub
